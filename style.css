@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.collapse,.nav-item,.nav.link{
+    color:rgb(250, 250, 250);
+    font-weight: bolder;
+    font-size: 15px;
+    
+}
